@@ -1,0 +1,23 @@
+.features .glyphicon {
+  font-size: 32px;
+}
+
+.footer .list-unstyled {
+  list-style: none;
+}
+
+.show {
+  display: block;
+}
+
+a.tickets {
+  margin-top: 50px;
+}
+
+#collapseList {
+  display: none;
+}
+
+.icon-bar {
+  pointer-events: none;
+}
